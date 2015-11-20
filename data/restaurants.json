@@ -1,0 +1,34 @@
+{
+  "key": "Restauracje",
+  "values": [{
+    "label": "Znajomi Znajomych",
+    "value": 967
+  }, {
+    "label": "Sofra",
+    "value": 295
+  }, {
+    "label": "Dwie trzecie",
+    "value": 214
+  }, {
+    "label": "Piri-Piri",
+    "value": 152
+  }, {
+    "label": "SmaczneGO!",
+    "value": 134
+  }, {
+    "label": "Krowarzywa",
+    "value": 81
+  }, {
+    "label": "Politechnika",
+    "value": 59
+  }, {
+    "label": "W gruncie rzeczy",
+    "value": 17
+  }, {
+    "label": "Mokra tacka",
+    "value": 7
+  }, {
+    "label": "B\u0142\u0105d",
+    "value": 4
+  }]
+}

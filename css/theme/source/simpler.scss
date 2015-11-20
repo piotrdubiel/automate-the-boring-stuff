@@ -12,13 +12,12 @@
 @import "../template/settings";
 // ---------------------------------------------
 
-@import "../font/roboto.scss";
-
+@import url(https://fonts.googleapis.com/css?family=Roboto:100&subset=latin,latin-ext);
 
 // Override theme settings (see ../template/settings.scss)
-$mainFont: 'robotothin', sans-serif;
+$mainFont: 'Roboto', sans-serif;
 $mainColor: #000;
-$headingFont: 'robotoregular', sans-serif;
+$headingFont: 'Roboto', sans-serif;
 $headingColor: #000;
 $headingTextShadow: none;
 $headingTextTransform: none;
@@ -32,3 +31,12 @@ $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal .slides p {
+  text-align: left;
+}
